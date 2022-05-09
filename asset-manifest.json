@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Stevie-s-Candy-Crush/static/css/main.c0e88ea9.css",
+    "main.js": "/Stevie-s-Candy-Crush/static/js/main.7a9fd55a.js",
+    "static/media/blue.png": "/Stevie-s-Candy-Crush/static/media/blue.2783051482b322baacc2.png",
+    "static/media/purple.png": "/Stevie-s-Candy-Crush/static/media/purple.56e9f6936881b019578c.png",
+    "static/media/yellow.png": "/Stevie-s-Candy-Crush/static/media/yellow.8ff00d3b2e760008bb5c.png",
+    "static/media/orange.png": "/Stevie-s-Candy-Crush/static/media/orange.40f7bcba6165f464a93c.png",
+    "static/media/red.png": "/Stevie-s-Candy-Crush/static/media/red.89590be5d8f55e1024bd.png",
+    "static/media/green.png": "/Stevie-s-Candy-Crush/static/media/green.2613a40c15ff7c4df5c1.png",
+    "index.html": "/Stevie-s-Candy-Crush/index.html",
+    "main.c0e88ea9.css.map": "/Stevie-s-Candy-Crush/static/css/main.c0e88ea9.css.map",
+    "main.7a9fd55a.js.map": "/Stevie-s-Candy-Crush/static/js/main.7a9fd55a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0e88ea9.css",
+    "static/js/main.7a9fd55a.js"
+  ]
+}
